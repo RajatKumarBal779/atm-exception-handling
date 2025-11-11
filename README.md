@@ -7,22 +7,22 @@ InsufficientFundsError
 It allows users to perform basic banking operations like deposit, withdrawal, and balance check, while ensuring invalid transactions are handled gracefully.
 ***
 ## ⚙️ Features
-Deposit and withdraw money with validation
-Detect and handle insufficient funds
-Raise and catch custom exceptions
-Prevent invalid inputs using pre-defined exceptions
-Simple, console-based interface
+- Proper exception handling for robustness
+- Deposit and withdraw money with validation
+- Detect and handle insufficient funds
+- Raise and catch custom exceptions
+- Prevent invalid inputs using pre-defined exceptions
+- Simple, console-based interface
 ***
 ## 🧠 Concepts Used
-Exception handling (try, except, raise)
-User-defined exceptions (class CustomError(Exception))
-Object-oriented programming
-Basic input validation
+- Exception handling (try, except, raise)
+- User-defined exceptions (class CustomError(Exception))
+- Basic input validation
 ***
 ## 📚 Learning Outcome
 This project demonstrates how to use exception handling to make programs reliable and user-friendly by controlling runtime errors properly.
 ***
 ## 📬 Contact
 For questions, suggestions, or collaboration, feel free to reach out:
-🔗 [LinkedIn – Rajat Kumar Bal](https://www.linkedin.com/in/rajat-kumar-bal) 
+- [LinkedIn – Rajat Kumar Bal](https://www.linkedin.com/in/rajat-kumar-bal) 
 
