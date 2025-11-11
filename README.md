@@ -14,7 +14,7 @@ Prevent invalid inputs using pre-defined exceptions
 Simple, console-based interface
 ***
 ## 🧠 Concepts Used
-Exception handling (try, except, finally)
+Exception handling (try, except, raise)
 User-defined exceptions (class CustomError(Exception))
 Object-oriented programming
 Basic input validation
@@ -23,6 +23,6 @@ Basic input validation
 This project demonstrates how to use exception handling to make programs reliable and user-friendly by controlling runtime errors properly.
 ***
 ## 📬 Contact
-For questions, suggestions, or collaboration:
-[LinkedIn: Rajat Kumar Bal](https://www.linkedin.com/in/rajat-kumar-bal)
+For questions, suggestions, or collaboration, feel free to reach out:
+🔗 [LinkedIn – Rajat Kumar Bal](https://www.linkedin.com/in/rajat-kumar-bal) 
 
