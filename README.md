@@ -24,5 +24,5 @@ This project demonstrates how to use exception handling to make programs reliabl
 ***
 ## 📬 Contact
 For questions, suggestions, or collaboration, feel free to reach out:
-🔗 [LinkedIn – Rajat Kumar Bal](https://www.linkedin.com/in/rajat-kumar-bal) 
+- [LinkedIn – Rajat Kumar Bal](https://www.linkedin.com/in/rajat-kumar-bal) 
 
